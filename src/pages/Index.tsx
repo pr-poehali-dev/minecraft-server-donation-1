@@ -155,7 +155,7 @@ const Index = () => {
                   <Icon name="Gamepad2" size={24} className="text-secondary" />
                 </div>
                 <CardTitle className="font-heading">Версия</CardTitle>
-                <CardDescription>1.20.1 - 1.21.3</CardDescription>
+                <CardDescription>1.21.1 - 1.21.5</CardDescription>
               </CardHeader>
             </Card>
 
