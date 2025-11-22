@@ -165,7 +165,7 @@ const Index = () => {
                   <Icon name="Zap" size={24} className="text-accent" />
                 </div>
                 <CardTitle className="font-heading">Режимы</CardTitle>
-                <CardDescription>Выживание • PvP • Мини-игры</CardDescription>
+                <CardDescription>Выживание</CardDescription>
               </CardHeader>
             </Card>
           </div>
