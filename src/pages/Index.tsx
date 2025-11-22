@@ -73,7 +73,7 @@ const Index = () => {
             <div className="w-10 h-10 bg-primary pixel-corners flex items-center justify-center text-2xl">
               ⛏️
             </div>
-            <span className="font-heading font-bold text-xl">MyCraft Server</span>
+            <span className="font-heading font-bold text-xl">SMPPro</span>
           </div>
           
           <div className="hidden md:flex items-center gap-6">
@@ -120,7 +120,7 @@ const Index = () => {
             />
             <div className="absolute inset-0 bg-gradient-to-t from-background via-background/50 to-transparent flex flex-col items-center justify-center text-center p-8">
               <h1 className="font-heading font-bold text-5xl md:text-7xl mb-4 text-stroke animate-fade-in">
-                MyCraft Server
+                SMPPro
               </h1>
               <p className="text-xl md:text-2xl text-muted-foreground mb-8 animate-fade-in">
                 Лучший сервер для выживания и приключений
@@ -304,7 +304,7 @@ const Index = () => {
               <div className="w-8 h-8 bg-primary pixel-corners flex items-center justify-center text-xl">
                 ⛏️
               </div>
-              <span className="font-heading font-semibold">MyCraft Server © 2024</span>
+              <span className="font-heading font-semibold">SMPPro © 2024</span>
             </div>
             
             <div className="flex items-center gap-4">
